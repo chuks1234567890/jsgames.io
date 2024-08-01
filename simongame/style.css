@@ -45,10 +45,10 @@ body{
 .container{
     width :50%;
     border-radius:50%;
-    background :#0b0b0b;
+    background :#1F2123;
     box-shadow:20px 20px rgba(0,0,0,.1);
     /* padding :10px; */
-    border: 10px solid #0b0b0b;
+    border: 13px solid #0b0b0b;
 }
 .wrapper{
     width :100%;
